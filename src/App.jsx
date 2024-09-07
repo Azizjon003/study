@@ -103,7 +103,7 @@ const Homes = () => (
       <AnimatedSection className="w-full md:w-1/4 mb-8 md:mb-0">
         <div className="rounded-lg shadow-lg p-4 transform md:-rotate-6">
           <img
-            src="https://s3.timeweb.cloud/729e17de-andasoft-buckets/1.png"
+            src="https://s3.timeweb.cloud/729e17de-andasoft-buckets/studytrack/1.png"
             alt="Left screenshot"
             className="w-full h-auto rounded"
           />
@@ -126,7 +126,7 @@ const Homes = () => (
       <AnimatedSection className="w-full md:w-1/4">
         <div className="rounded-lg shadow-lg p-4 transform md:rotate-6">
           <img
-            src="https://s3.timeweb.cloud/729e17de-andasoft-buckets/2.png"
+            src="https://s3.timeweb.cloud/729e17de-andasoft-buckets/studytrack/2.png"
             alt="Right screenshot"
             className="w-full h-auto rounded"
           />
@@ -249,13 +249,12 @@ const AIFeatures = () => (
       </div>
     </div>
   </section>
-);const Footer = () => (
+);
+const Footer = () => (
   <footer className="bg-purple-900 text-white py-8">
     <div className="container mx-auto text-center">
-      <p className="mb-4">
-        &copy; 2024 StudyTrack. All rights reserved.
-      </p>
-      
+      <p className="mb-4">&copy; 2024 StudyTrack. All rights reserved.</p>
+
       <div className="text-sm">
         <p>www.Study-Track.com | +998940435349 | studytrack347@gmail.com</p>
         <p>Toshkent 100084, Amir Temur Avenue, 108</p>
